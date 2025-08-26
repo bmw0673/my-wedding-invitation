@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {
+            "title" : "신부 계좌",
+            "bank_name" : "카카오뱅크",
+            "account_owner" : "김은아",
+            "account_number" : "3333-05-5079821"
+        },
+        {
+            "title" : "혼주 계좌",
+            "bank_name" : "농협은행",
+            "account_owner" : "김금곤",
+            "account_number" : "172080-52-088259"
+        }
+    ]
+}

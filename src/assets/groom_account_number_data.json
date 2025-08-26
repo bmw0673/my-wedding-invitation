@@ -1,0 +1,16 @@
+{
+    "data" : [
+        {
+            "title" : "신랑 계좌",
+            "bank_name" : "국민은행",
+            "account_owner" : "최영진",
+            "account_number" : "619602-01-511952"
+        },
+        {
+            "title" : "혼주 계좌",
+            "bank_name" : "국민은행",
+            "account_owner" : "최태식",
+            "account_number" : "205-21-0777-090"
+        }
+    ]
+}

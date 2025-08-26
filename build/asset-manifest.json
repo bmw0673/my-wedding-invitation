@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c02b219c.css",
+    "main.js": "./static/js/main.2f1c85ed.js",
+    "static/js/488.e56e2d97.chunk.js": "./static/js/488.e56e2d97.chunk.js",
+    "static/media/NotoSansKR-Regular.otf": "./static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
+    "static/media/NanumMyeongjo-Regular.ttf": "./static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
+    "index.html": "./index.html",
+    "main.c02b219c.css.map": "./static/css/main.c02b219c.css.map",
+    "main.2f1c85ed.js.map": "./static/js/main.2f1c85ed.js.map",
+    "488.e56e2d97.chunk.js.map": "./static/js/488.e56e2d97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c02b219c.css",
+    "static/js/main.2f1c85ed.js"
+  ]
+}
